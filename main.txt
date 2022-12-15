@@ -1,2 +1,6 @@
 hello im learining git.
-iam working with text editor
+
+lets try again
+
+i am using vscode to commit
+
