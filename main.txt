@@ -3,7 +3,7 @@ after
 hello im learining git.
 this line added
 lets try again
-
+line 6
 i am using vscode to commit
 
 last line of main.txt from master
