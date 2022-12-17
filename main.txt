@@ -1,3 +1,5 @@
+seconde practice added
+
 hello im learining git.
 
 lets try again
