@@ -1,5 +1,5 @@
 seconde practice added
-
+after
 hello im learining git.
 
 lets try again
@@ -7,3 +7,4 @@ lets try again
 i am using vscode to commit
 
 last line of main.txt from master
+now
