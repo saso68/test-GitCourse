@@ -1,7 +1,7 @@
 seconde practice added
 after
 hello im learining git.
-
+this line added
 lets try again
 
 i am using vscode to commit
