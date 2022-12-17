@@ -8,3 +8,4 @@ i am using vscode to commit
 
 last line of main.txt from master
 now
+newline added
