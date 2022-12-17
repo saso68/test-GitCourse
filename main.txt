@@ -5,7 +5,10 @@ this line added
 lets try again
 line 6
 i am using vscode to commit
-
+nothing
 last line of main.txt from master
 now
 newline added
+last line added
+new last line
+newest line
